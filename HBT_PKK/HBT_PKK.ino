@@ -4,7 +4,7 @@
 
 #include <AFMotor.h>  
 
-Servo servo1;
+
 
 #include <AFMotor.h>  
 
