@@ -12,10 +12,10 @@ Servo servo1;
 Servo servo2;
 PS2X ps2; 
 
-#define PS2_DAT 10  
-#define PS2_CMD 11  
-#define PS2_SEL 12 
-#define PS2_CLK 13  
+#define PS2_DAT A0  
+#define PS2_CMD A1
+#define PS2_SEL A2
+#define PS2_CLK A4
 
 bool oneHandMode = true;
 
